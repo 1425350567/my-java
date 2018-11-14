@@ -7,7 +7,7 @@ public class Emp
 	{   
 //		自定义函数无需实例化对象即可访问实例变量
 		double salary;
-//	    局部变量在声明时不会报错
+//	        局部变量在声明时不会报错
 		salary=1000;
 		
 		esalary=esalary+salary;
